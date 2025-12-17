@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tang-O
 
-### CEDT Undergrad @ Chulalongkorn University.
+### CEDT Undergrad at Chulalongkorn University.
 
 - 🌱 I'm currently learning **Full Stack Developer**
 
