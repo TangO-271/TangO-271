@@ -10,7 +10,11 @@
 
 - ⚡ Fun fact **I am pet lover.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1FXNvglffBcZTADYIEx2gSXEQDdwpcEOw/view?usp=sharing](https://drive.google.com/file/d/1FXNvglffBcZTADYIEx2gSXEQDdwpcEOw/view?usp=sharing)**
+- 📄 Know about my experiences **[Click](https://drive.google.com/file/d/1FXNvglffBcZTADYIEx2gSXEQDdwpcEOw/view?usp=sharing)**
+
+<h3 align="left">Certifications:</h3>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TQJPD8IOBGKV" target="blank">IBM AI Engineering Professional Certificate</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
