@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences **[Click](https://drive.google.com/file/d/1FXNvglffBcZTADYIEx2gSXEQDdwpcEOw/view?usp=sharing)**
 
-<h3 align="left">Certification:</h3>
+<h3 align="left">Certificate:</h3>
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TQJPD8IOBGKV" target="blank"><img align="center" src="https://github.com/TangO-271/TangO-271/blob/main/IBM_AI_Engineer_Certificate.png" alt="IBM AI Engineer Certificate" height="400" width="520" /></a>
 
 
